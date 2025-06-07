@@ -22,7 +22,7 @@ Whether you're testing your IDS setup or exploring packet-level threat detection
 1. **Clone the Repository**
 
    ```bash
-   git clone [<repo_link>](https://github.com/THARAGESHWARAN-SATHYAMOORTHY/ThreatX)
+   git clone https://github.com/THARAGESHWARAN-SATHYAMOORTHY/ThreatX
    ```
 
 2. **Navigate to the Project Directory**
